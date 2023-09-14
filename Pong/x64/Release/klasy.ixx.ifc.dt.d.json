@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kamil\\source\\repos\\ec3d0f13-gr21-repo\\projekt\\pong\\pong\\klasy.ixx",
+        "ProvidedModule": "pong",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,2 @@
+Gracz 1: 2
+Gracz 2: 1
